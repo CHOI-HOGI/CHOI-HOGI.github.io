@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+코딩 공부 블로그
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+앞으로 온라인 강의 관련 포스트 진행합니다
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hogi1228@gmail.com](mailto:hogi1228@gmail.com)
